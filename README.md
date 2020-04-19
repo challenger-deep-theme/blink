@@ -1,0 +1,2 @@
+# blink
+Blink Theme
